@@ -1077,7 +1077,7 @@ section p {
    
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
   .slide-loader {
     position: absolute;
     z-index: 1100;
